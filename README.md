@@ -10,6 +10,6 @@ NIS : 4289/1187.063
 
 Sekolah : SMK Telkom Malang
 
-#ScreenAnJon
+#ScreenShoot
 
 ![screenshot_1478349013](https://cloud.githubusercontent.com/assets/21327778/20030048/64a52a06-a38f-11e6-8546-7844cc039401.png)
